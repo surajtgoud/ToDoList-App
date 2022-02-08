@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/surajtgoud/ToDoList-App/issues"
   },
-  "homepage": "https://github.com/surajtgoud/ToDoList-App#readme"
+  "homepage": "https://github.com/surajtgoud/ToDoList-App#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
